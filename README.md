@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ghost0x7
-- 👀 I’m interested in Ethereum.
-- 💞️ I’m looking to collaborate on Ethereum projects.
+- 👋 Hi, I’m @ghost0x
+- 👀 I’m interested in Ethereum/crypto.
+- 💞️ I’m looking to collaborate on crypto projects.
 - 📫 How to reach me:  
-  - ENS: [@ghost0x7](https://etherscan.io/enslookup-search?search=ghost0x7.eth)
-  - OpenSea: [@ghost0x7](https://opensea.io/ghost0x7)
+  - ENS: [@ghost0x](https://etherscan.io/enslookup-search?search=ghost0x.eth)
+  - OpenSea: [@ghost0x](https://opensea.io/ghost0x7)
   - Twitter: [@ghost0x7](https://twitter.com/ghost0x7)
   - Reddit: [@ghost0x7](https://reddit.com/u/ghost0x7)
-  - Web: [@ghost0x7](https://ghost0x7.com)
+  - Web: [@ghost0x](https://ghost0x.com)
