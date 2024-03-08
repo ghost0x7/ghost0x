@@ -4,6 +4,4 @@
 - 📫 How to reach me:  
   - ENS: [@ghost0x](https://etherscan.io/enslookup-search?search=ghost0x.eth)
   - OpenSea: [@ghost0x](https://opensea.io/ghost0x7)
-  - Twitter: [@ghost0x7](https://twitter.com/ghost0x7)
   - Reddit: [@ghost0x7](https://reddit.com/u/ghost0x7)
-  - Web: [@ghost0x](https://ghost0x.com)
